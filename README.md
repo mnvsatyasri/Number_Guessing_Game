@@ -11,8 +11,8 @@ Number Guessing Game is a beginner-friendly Python project that helps you test y
 
 ## Technologies Used
 
-Python 3
-Built-in libraries(random)
+* Python 3
+  * Built-in libraries (`random`)
 
 ## How It Works
 
@@ -20,20 +20,24 @@ The script utilizes Python's built-in `random` module to select a secret number.
 
 ## How to Use
 
-1.Clone this repository:
-'''bash
-git clone https://github.com/your-username/number-guessing-game.git
-'''
-2.Navigate to the project folder:
-'''bash
-cd number-guessing-game
-'''
-3.Run the program:
-'''bash
-python guessing_game.py
-'''
+1. Clone the repository:
+   ```bash
+   git clone https://github.com
+   ```
 
-## Example GamePlay
+2. Navigate to the project folder:
+   ```bash
+   cd Number-_Guessing_Game
+   ```
+
+3. Run the program:
+   ```bash
+   python guessing_game.py
+   ```
+
+   ## Example GamePlay
+
+   ```text
 Welcome to the Number Guessing Game!
 Enter your guess (1-100): 50
 Too low! Try again.
@@ -42,6 +46,9 @@ Too high! Try again.
 Enter your guess (1-100): 63
 Correct! The number was 63.
 You guessed it in 3 attempts.
+```
+
+
 
 
 
