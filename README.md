@@ -36,8 +36,7 @@ The script utilizes Python's built-in `random` module to select a secret number.
    ```
 
    ## Example GamePlay
-
-   ```text
+```text
 Welcome to the Number Guessing Game!
 Enter your guess (1-100): 50
 Too low! Try again.
